@@ -55,7 +55,7 @@
     "husky": "^9.1.6",
     "lint-staged": "^15.2.10",
     "node-sass": "^9.0.0",
-    "public-ip": "^4.0.3",
+    "public-ip": "^7.0.1",
     "react-hot-loader": "^4.8.4",
     "regenerator-runtime": "^0.13.7",
     "sass-loader": "^7.1.0",
